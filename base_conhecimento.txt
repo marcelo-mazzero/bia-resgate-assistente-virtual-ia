@@ -1,0 +1,6 @@
+DIRETRIZES DE RECUPERAÇÃO FINANCEIRA BÁSICA:
+
+1. MAPEAR: O primeiro passo para sair das dívidas é listar todas elas. Deve-se anotar: Credor, Valor Original, Valor Atual com Juros e Custo Efetivo Total (CET). Importar arquivos OFX do banco para uma planilha do Excel ajuda a visualizar os ralos de dinheiro.
+2. PRIORIZAR: Dívidas com bens em garantia (casa, carro) e serviços essenciais (água, luz) devem ter prioridade de renegociação para evitar cortes ou apreensões. Em seguida, foque nas dívidas com os maiores juros, como Cartão de Crédito Rotativo e Cheque Especial.
+3. RENEGOCIAR: Nunca aceite a primeira proposta do banco. Busque feirões como o Serasa Limpa Nome. É possível trocar uma dívida cara por uma barata (ex: pegar um empréstimo consignado com juros de 2% a.m. para quitar um cartão de crédito que cobra 14% a.m.).
+4. ORÇAMENTO DE EMERGÊNCIA: Durante a quitação, o orçamento deve seguir a regra de sobrevivência: cortar gastos não essenciais até que a reserva de emergência (mínimo de 1 mês de custo de vida) seja criada.
